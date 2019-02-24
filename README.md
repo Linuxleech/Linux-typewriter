@@ -14,4 +14,6 @@ This is the version with multiple sounds.
     chmod u+x keyboardSound-v2.5.py 
 ### To run: 
     sudo ./keyboardSound-v2.5.py 
-    
+Linux typewriter                  |  part two 
+:--------------------------------:|:----------------------------:
+[![linuxleech linux typewritter](http://img.youtube.com/vi/0Bk6ihHlpB0/0.jpg)](http://www.youtube.com/watch?v=0Bk6ihHlpB0 "Linux typewriter") | [![linuxleech linux typewritter part 2](http://img.youtube.com/vi/AgASehFGsbY/0.jpg)](http://www.youtube.com/watch?v=AgASehFGsbY "Linux typewriter part 2")  
